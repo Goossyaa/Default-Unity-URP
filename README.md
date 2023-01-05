@@ -1,6 +1,19 @@
 # Default-Unity-URP
 Unity 2020.3.43f1
 
+# [0.1.4] — 05.01.2023
+
+### Добавлено
+1. 2D Animations
+2. Cinemachine
+3. Input System (New)
+4. Post Processing
+5. ProBuilder
+6. Unity Recorder
+7. Visual Effect Graph
+
+
+
 # [0.1.3] — 05.01.2023
 
 Добавил TextMesh Pro
