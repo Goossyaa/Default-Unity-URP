@@ -1,6 +1,24 @@
 # Default-Unity-URP
 Unity 2020.3.43f1
 
+# [0.1.9] — 2023-01-05
+
+### Добавлено
+1. Feel
+2. Bolt
+3. FMOD
+4. I2 Localization
+5. Lux URP Essentials
+
+### Исправлено
+Изменил настройки Input System на Both
+
+### Удалено 
+Папка Assets/Third-party/Editor/Grabbit/Demo
+
+
+
+
 # [0.1.8] — 2023-01-05
 
 Добавил ShaderControl
