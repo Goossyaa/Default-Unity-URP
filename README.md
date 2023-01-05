@@ -1,6 +1,12 @@
 # Default-Unity-URP
 Unity 2020.3.43f1
 
+# [0.1.7] — 2023-01-05
+
+Перенес Grabbit в Assets/Third-party/Editor
+
+
+
 # [0.1.6] — 2023-01-05
 
 Добавил Beautify 3
@@ -37,7 +43,7 @@ Unity 2020.3.43f1
 # [0.1.1] — 2023-01-05
 
 Добавил ConsolePro
-Удалил сгенерившуюся папку Assets\Third-party\Plugins
+Удалил сгенерившуюся папку Assets/Third-party/Plugins
 
 
 # [0.1.0] — 2023-01-05
