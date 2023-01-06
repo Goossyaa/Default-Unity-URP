@@ -1,5 +1,22 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-3464343275304487444
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38f9650d8a8634cb5928de456b7d5e8b, type: 3}
+  m_Name: NewGrassDisplacementRenderFeature
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  settings:
+    Resolution: 256
+    Size: 20
+    ShiftRenderTex: 0
 --- !u!114 &-2917993312710875900
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -33,7 +50,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_RendererFeatures:
   - {fileID: -2917993312710875900}
-  m_RendererFeatureMap: 0425e7d28a3481d7
+  - {fileID: 3148392520231426597}
+  - {fileID: -3464343275304487444}
+  m_RendererFeatureMap: 0425e7d28a3481d7251ae4f55056b12bec75765f252eeccf
   postProcessData: {fileID: 11400000, guid: 41439944d30ece34e96484bdb6645b55, type: 2}
   xrSystemData: {fileID: 11400000, guid: 60e1133243b97e347b653163a8c01b64, type: 2}
   shaders:
@@ -62,3 +81,17 @@ MonoBehaviour:
   m_ShadowTransparentReceive: 1
   m_RenderingMode: 0
   m_AccurateGbufferNormals: 0
+--- !u!114 &3148392520231426597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7c2c2c3c19808149a4d3454e1019255, type: 3}
+  m_Name: HBAO
+  m_EditorClassIdentifier: 
+  m_Active: 1
+  shader: {fileID: 4800000, guid: bf610497676b34e4dbe0f14fe3fe311c, type: 3}
