@@ -3,7 +3,9 @@ Unity 2020.3.43f1
 
 # [0.1.10] — 2023-01-06
 
-Добавил DOTweenPro
+### Добавлено
+1. DOTweenPro
+2. Horizon Based Ambient Occlusion
 
 
 # [0.1.9] — 2023-01-05
