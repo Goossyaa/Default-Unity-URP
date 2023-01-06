@@ -70,7 +70,7 @@ MonoBehaviour:
     m_FontSize: 12
     m_FontStyle: 0
     m_Alignment: 3
-    m_WordWrap: 1
+    m_WordWrap: 0
     m_RichText: 1
     m_TextClipping: 1
     m_ImagePosition: 0
@@ -204,7 +204,7 @@ MonoBehaviour:
     m_FontSize: 20
     m_FontStyle: 0
     m_Alignment: 3
-    m_WordWrap: 1
+    m_WordWrap: 0
     m_RichText: 1
     m_TextClipping: 1
     m_ImagePosition: 0
@@ -271,7 +271,7 @@ MonoBehaviour:
     m_FontSize: 40
     m_FontStyle: 0
     m_Alignment: 3
-    m_WordWrap: 1
+    m_WordWrap: 0
     m_RichText: 1
     m_TextClipping: 1
     m_ImagePosition: 0
@@ -827,7 +827,7 @@ MonoBehaviour:
     m_FontSize: 12
     m_FontStyle: 0
     m_Alignment: 3
-    m_WordWrap: 1
+    m_WordWrap: 0
     m_RichText: 1
     m_TextClipping: 1
     m_ImagePosition: 0
